@@ -1,4 +1,4 @@
-# React TypeScript Starter Pack
+# React/TypeScript Redux Todo App
 
 To use this template click `Use this template`
 
