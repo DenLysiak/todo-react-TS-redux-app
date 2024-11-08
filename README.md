@@ -21,7 +21,7 @@ Main app loading happens in 'App' component, wich passes list of filtered todos,
 In 'Header' component there is 'form' to add new todo and 'toggle All' button to change the status of all todos.
 In 'Footer' component there are 'status' links, indicator of uncompleted todos and 'clear All completed todos' button;
 In 'TodoItem' componet there is a form wich enables editing of texts of exsisting todo, toggle button to change the status of todo, and delete button to remove todo; 
-'ActiveForm' component is used to update the content of todo, an empty content will be delited, canceling of editing can be done by pressing 'ESC' button, form submition happens by double click or enter button.
+'ActiveForm' component is used to update the content of todo, an empty content will be delited, canceling of editing can be done by pressing 'ESC' button, form submition happens by click outside of form or enter button.
 'Errors' component show error with corresponding message to the error, after error fires, the message will disappear after 3s.
 
 
